@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Autumn GIF Maker</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fff5e6;
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #ff6600;
+    }
+    .box {
+      border: 2px dashed #ffa500;
+      padding: 20px;
+      margin-top: 30px;
+      background: #fff;
+      border-radius: 10px;
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <h1>🍁 Autumn GIF Maker</h1>
+  <div class="box">
+    <p>歡迎來到你的第一個網站！</p>
+    <p>你可以在這裡打造自己的動圖生成工具。</p>
+  </div>
+</body>
+</html>

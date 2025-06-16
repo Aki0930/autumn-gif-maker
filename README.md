@@ -64,4 +64,11 @@
           alert("生成失敗：" + (data.error || "未知錯誤"));
         }
       } catch (err) {
-        alert("發生錯誤：" + err.
+        alert("發生錯誤：" + err.message);
+      } finally {
+        loadingText.style.display = 'none';
+      }
+    };
+  </script>
+</body>
+</html>
